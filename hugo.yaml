@@ -1,14 +1,12 @@
 baseURL: "https://orlandohuang.pages.dev/"
 languageCode: "en-us"
 title: "Orlando Huang"
-theme: ["PaperMod"]
+theme: "PaperMod"
 cleanDestinationDir: true
 
 menu:
   main:
-    - name: "Home"
-      url: "/"
+    - identifier: projects
+      name: Projects
+      url: /projects/
       weight: 1
-    - name: "Projects"
-      url: "/projects/"
-      weight: 2
