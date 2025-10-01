@@ -3,7 +3,6 @@ languageCode: "en-us"
 title: "Orlando Huang"
 theme: "PaperMod"
 cleanDestinationDir: true
-minify: true
 gc: true
 menu:
   main:
