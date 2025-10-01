@@ -1,0 +1,14 @@
+baseURL: "https://orlandohuang.pages.dev/"
+languageCode: "en-us"
+title: "Orlando Huang"
+theme: ["PaperMod"]
+cleanDestinationDir: true
+
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "Projects"
+      url: "/projects/"
+      weight: 2
